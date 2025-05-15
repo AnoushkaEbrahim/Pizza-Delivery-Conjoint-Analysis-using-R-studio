@@ -50,5 +50,5 @@ We used **Conjoint Analysis** in R using the `conjoint` package. The steps follo
 
 ---
 
-
+Made with 🍕 by Anoushka Ebrahim
 
