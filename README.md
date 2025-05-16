@@ -15,7 +15,7 @@ To identify:
 
 ## 🧠 Methodology
 
-We used **Conjoint Analysis** in R using the `conjoint` package. The steps followed were:
+I used **Conjoint Analysis** in R using the `conjoint` package. The steps followed were:
 
 1. **Generate a Full Factorial Design**:
    - Used `expand.grid()` to create all possible combinations of features.
